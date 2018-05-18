@@ -1,1 +1,1 @@
-# This is Teams craeated to handle all Microsoft teams app ideas
+# This is Teams created to handle all Microsoft teams app ideas
